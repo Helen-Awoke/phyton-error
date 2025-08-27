@@ -26,5 +26,5 @@ def main():
         print("Error: Could not write the modified file.")
 
 
-if name == "main":
+if __name__ == "main":
     main()
